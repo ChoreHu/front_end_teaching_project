@@ -1,0 +1,44 @@
+[33mcommit e0e735ba2a74387eb69ebe817d9d22c481d052cb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 1d52c18 fbe38fb
+Author: ChoreHu <287497281@qq.com>
+Date:   Wed Mar 21 15:42:27 2018 +0800
+
+    fixed
+
+[33mcommit 1d52c18deaa83b9018af84be8fd76837674b925d[m
+Author: ChoreHu <287497281@qq.com>
+Date:   Wed Mar 21 15:40:49 2018 +0800
+
+    master commit
+
+[33mcommit fbe38fba037649793e04e2643b13ec7f20a0f295[m[33m ([m[1;32mdev[m[33m)[m
+Author: ChoreHu <287497281@qq.com>
+Date:   Wed Mar 21 15:39:45 2018 +0800
+
+    new branch commit
+
+[33mcommit 3ecf9e945a08bf4d8d337631fbbcdb3250693a9f[m
+Author: ChoreHu <287497281@qq.com>
+Date:   Wed Mar 21 15:09:05 2018 +0800
+
+    branch test
+
+[33mcommit e2dd4398166ca7687948db4941a464bde9c53d5d[m
+Author: ChoreHu <287497281@qq.com>
+Date:   Wed Mar 21 15:04:20 2018 +0800
+
+    Revert "readme"
+    
+    This reverts commit 2fe607c6370dc6ec634814e0e3f395eb085660e0.
+
+[33mcommit 2fe607c6370dc6ec634814e0e3f395eb085660e0[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: ChoreHu <287497281@qq.com>
+Date:   Wed Mar 21 14:55:31 2018 +0800
+
+    readme
+
+[33mcommit b238b4c144dca5003ddddf5a54ea5af39a8b2fa5[m
+Author: ChoreHu <287497281@qq.com>
+Date:   Tue Mar 20 15:56:54 2018 +0800
+
+    wrote a readme file
